@@ -21,7 +21,7 @@ Before you begin, ensure you have the following installed:
 2. Navigate to the project directory:
 
     ```bash
-    cd aws-lambda-number-odd-checker
+    cd is-odd-lambda
     ```
 
 3. Install dependencies:
