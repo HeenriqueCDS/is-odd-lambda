@@ -43,7 +43,7 @@ npm run build
 To generate the Lambda layer, run:
 
 ```bash
-npm run layer:generate
+npm run layer:build
 ```
 
 ## Deployment
